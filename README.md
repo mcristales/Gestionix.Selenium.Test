@@ -3,9 +3,10 @@
 **Test with Selenium,Node,Mocha,Chai**
 
 # Prepare
-[Download](http://chromedriver.chromium.org/) 
+[Download ChomreDriver](http://chromedriver.chromium.org/) 
 
 `Add $PATH ChromeDriver in windows `
+
 **Windows**
 * Advance settings
 * Environment Variables
