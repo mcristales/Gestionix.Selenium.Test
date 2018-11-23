@@ -2,7 +2,7 @@
 
 **Test with Selenium,Node,Mocha,Chai**
 
-#Prepare
+# Prepare
 `http://chromedriver.chromium.org/`
 
 `Add $PATH ChromeDriver in windows `
@@ -13,11 +13,11 @@
 * Accept
 
 
-#Install
+# Install
 
 `$ npm install`
 
-#Run Test
+# Run Test
 `$ npm run test`
 
 
